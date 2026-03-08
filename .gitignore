@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+lib/
+bin/
+parts/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.installed.cfg
+*.egg
+*.egg-info
+
+# Django Stuff
+*.log
+*.pot
+# Local sqlite database file
+db.sqlite3
+# Media and static file directories
+media/
+static/
+
+# IDE-specific files (Example for PyCharm)
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
